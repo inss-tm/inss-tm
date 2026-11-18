@@ -1,8 +1,10 @@
-Hi there, I'm Ines 👋
+**Hi there, my name is ines**  👋
 
-💻 Computer Science student 
+**About me:**  
+💻 Computer Science student L3 at blida university
 🔐 Interested in **Web development, ai and cybersecurity**  
-🌱 Currently learning, building, and experimenting with new technologies.
+🌱 I'm currently looking to learn, build, and collaborate on interesting projects, while gaining more hands-on experience and growing as a developer.
+Always open to new projects, collaborations, and opportunities.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:temziines23@gmail.com) 
